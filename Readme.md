@@ -1,8 +1,8 @@
 # Proyecto Final: Predicción de Supervivencia en Pacientes de UCI
 
 **Materia:** Análisis y Modelado de Datos  
-**Estudiante:** [Tu Nombre Aquí]  
-**Fecha de entrega:** [Colocar fecha]
+**Estudiante:** [Jesus Armando Diaz Gonzalez]  
+**Fecha de entrega:** [31/05/2025]
 
 ## Descripción del Proyecto
 
@@ -34,4 +34,4 @@ Este proyecto permitió aplicar de manera práctica los conocimientos adquiridos
 Cualquier comentario, observación o retroalimentación será bien recibida.
 
 Atentamente,  
-[Tu Nombre Aquí]
+[Jesus Armando Diaz Gnzalez]
